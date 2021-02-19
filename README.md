@@ -6,3 +6,5 @@ Liste des compétences et langages:
 
 Versioning, testing et gestion de projet
 html, css, javascript, php
+
+Je commence par les bases, et pour l'instant github.
