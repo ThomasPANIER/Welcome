@@ -1,6 +1,6 @@
 Qui suis-je ?
 
-Je suis un futur developpeur et suis actuellement en formation dev à l'AFPA.
+Je suis un futur développeur et suis actuellement en formation développeur Web et Web mobile à l'AFPA.
 
 Liste des compétences et langages:
 
