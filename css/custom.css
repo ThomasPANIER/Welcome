@@ -1,0 +1,39 @@
+
+body {
+  background-color: black;
+  color: white;
+
+}
+
+header, footer {
+  background-color: grey;
+}
+
+section {
+  margin-bottom: 10%;
+}
+
+.sizeDiv1 {
+    width: 90%;
+    margin: auto;
+  }
+  
+  .sizeDiv2 {
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+  p {
+    padding: 5%;
+    margin: auto;
+  }
+  
+  h1, h2 {
+    margin: 2% auto 2% auto;
+    padding: 2%;
+  }
+
+#slider_certificate {
+  margin: 5%;
+}
