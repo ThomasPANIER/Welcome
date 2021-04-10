@@ -4,17 +4,18 @@ const images = [
     "img/certificat_comprendre_le_web.png",
     "img/certificat_wordpress.png",
     "img/certificat_html5_css3.png",
-    "img/Certificat_LeFonctionnementDesAlgorithmes.png"
-
+    "img/Certificat_LeFonctionnementDesAlgorithmes.png",
+    "img/Certificat_ProgrammerAvecJavaScript.png"
 ];
+
 //déclarer descriptions
 const descriptions = [
     "Attestation de suivi MOOC sur la sécurité informatique",
     "Certificat de réussite: Comprendre le Web",
     "Certificat de réussite: WordPress 5",
     "Certificat de réussite: Créer votre site web avec HTML5 et CSS3",
-    "Certificat de réussite: Découvrez le fonctionnement des algorithmes"
-
+    "Certificat de réussite: Découvrez le fonctionnement des algorithmes",
+    "Certificat de réussite: Apprenez à programmer avec JavaScript"
 ];
 
 var maxIndex = images.length - 1;
